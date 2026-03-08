@@ -20,25 +20,25 @@ Tools that use Scapy (a lot) or extend it.
 
 Fun
 
-* [pwnagotchi](https://github.com/evilsocket/pwnagotchi) ⭐ 8,956 | 🐛 296 | 🌐 Python | 📅 2025-08-23 - Your AI pet that hacks WiFI to grow. It's super cute.
+* [pwnagotchi](https://github.com/evilsocket/pwnagotchi) ⭐ 8,983 | 🐛 296 | 🌐 Python | 📅 2025-08-23 - Your AI pet that hacks WiFI to grow. It's super cute.
 
 DDoS
 
-* [ufonet](https://github.com/epsylon/ufonet) ⭐ 2,433 | 🐛 1 | 🌐 JavaScript | 📅 2024-08-23 - Create your own botnet to send untraceable DDoS attacks.
+* [ufonet](https://github.com/epsylon/ufonet) ⭐ 2,441 | 🐛 1 | 🌐 JavaScript | 📅 2024-08-23 - Create your own botnet to send untraceable DDoS attacks.
 
 Wi-Fi.
 
-* [wifiphisher](https://github.com/wifiphisher/wifiphisher) ⭐ 14,443 | 🐛 348 | 🌐 Python | 📅 2025-02-04 - Create rogue access point.
-* [trackerjacker](https://github.com/calebmadrigal/trackerjacker) ⭐ 2,714 | 🐛 18 | 🌐 Python | 📅 2024-01-16 - Maps and tracks Wi-Fi networks and devices through raw 802.11 monitoring.
+* [wifiphisher](https://github.com/wifiphisher/wifiphisher) ⭐ 14,480 | 🐛 350 | 🌐 Python | 📅 2025-02-04 - Create rogue access point.
+* [trackerjacker](https://github.com/calebmadrigal/trackerjacker) ⭐ 2,716 | 🐛 18 | 🌐 Python | 📅 2024-01-16 - Maps and tracks Wi-Fi networks and devices through raw 802.11 monitoring.
 
 Wireless
 
-* [WHAD](https://github.com/whad-team/whad-client) ⭐ 283 | 🐛 69 | 🌐 Python | 📅 2026-02-18 - A powerful framework to perform various kinds of Wireless attacks.
+* [WHAD](https://github.com/whad-team/whad-client) ⭐ 285 | 🐛 67 | 🌐 Python | 📅 2026-03-04 - A powerful framework to perform various kinds of Wireless attacks.
 
 IPv6
 
-* [mitm6](https://github.com/fox-it/mitm6) ⭐ 1,885 | 🐛 18 | 🌐 Python | 📅 2024-02-20 - Performs MiTM for IPv6.
-* [Chiron](https://github.com/aatlasis/Chiron) ⭐ 209 | 🐛 1 | 🌐 Python | 📅 2018-11-16 - An IPv6 security assessment framework.
+* [mitm6](https://github.com/fox-it/mitm6) ⭐ 1,889 | 🐛 18 | 🌐 Python | 📅 2024-02-20 - Performs MiTM for IPv6.
+* [Chiron](https://github.com/aatlasis/Chiron) ⭐ 210 | 🐛 1 | 🌐 Python | 📅 2018-11-16 - An IPv6 security assessment framework.
 
 Measurements
 
@@ -50,13 +50,13 @@ Protocols
 
 * [Cotopaxi](https://github.com/Samsung/cotopaxi) ⭐ 358 | 🐛 1 | 🌐 Python | 📅 2024-05-31 - Set of tools for security testing of Internet of Things devices using specific network IoT protocols (AMQP, CoAP, DTLS, HTCPCP, KNX, mDNS, MQTT, MQTT-SN, QUIC, RTSP, SSDP) .
 * [project-memoria-detector](https://github.com/Forescout/project-memoria-detector) ⭐ 323 | 🐛 1 | 🌐 Python | 📅 2021-08-10 - Determine whether a network device runs a specific embedded TCP/IP stack.
-* [routopsy](https://github.com/sensepost/routopsy) ⭐ 179 | 🐛 0 | 🌐 Python | 📅 2021-07-30 - Toolkit to attack DRP & FHRP.
+* [routopsy](https://github.com/sensepost/routopsy) ⭐ 178 | 🐛 0 | 🌐 Python | 📅 2021-07-30 - Toolkit to attack DRP & FHRP.
 * [TorPylle](https://github.com/cea-sec/TorPylle) ⚠️ Archived - Implementation of the OR (TOR) protocol.
 
 Unit Tests
 
-* [Linux Kernel](https://github.com/torvalds/linux/blob/master/tools/testing/selftests/tc-testing/plugin-lib/scapyPlugin.py) ⭐ 218,084 | 🐛 3 | 🌐 C | 📅 2026-02-21 - Linux Traffic Control (tc) testing suite.
-* [RIOT-OS](https://github.com/RIOT-OS/RIOT/search?l=Python\&q=scapy\&type=Code) ⭐ 5,681 | 🐛 835 | 🌐 C | 📅 2026-02-21 - RIOT OS networking testing suite.
+* [Linux Kernel](https://github.com/torvalds/linux/blob/master/tools/testing/selftests/tc-testing/plugin-lib/scapyPlugin.py) ⭐ 221,381 | 🐛 3 | 🌐 C | 📅 2026-03-08 - Linux Traffic Control (tc) testing suite.
+* [RIOT-OS](https://github.com/RIOT-OS/RIOT/search?l=Python\&q=scapy\&type=Code) ⭐ 5,690 | 🐛 833 | 🌐 C | 📅 2026-03-06 - RIOT OS networking testing suite.
 * [OpenBSD](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fsearch%3Fq%3Dscapy%2Brepo%253Aopenbsd%252Fsrc%2Bpath%253Aregress%252F%26type%3DCode%26ref%3Dadvsearch%26l%3D%26l%3D) - IPv6 stack testing suite.
 
 Visualization
@@ -66,12 +66,12 @@ Visualization
 Misc
 
 * [Responder](https://github.com/SpiderLabs/Responder) ⚠️ Archived -  LLMNR, NBT-NS and MDNS poisoner.
-* [TIDoS Framework](https://github.com/0xInfection/TIDoS-Framework) ⭐ 1,850 | 🐛 16 | 🌐 Python | 📅 2023-04-19 - The Offensive Manual Web Application Penetration Testing Framework.
-* [net-creds](https://github.com/DanMcInerney/net-creds) ⭐ 1,811 | 🐛 8 | 🌐 Python | 📅 2023-11-02 - Sniff and catch all sensitive data on an interface.
-* [Habu](https://github.com/fportantier/habu) ⭐ 974 | 🐛 2 | 🌐 Python | 📅 2025-12-30 - Toolkit with a lot of little hacking tools. Many of them use Scapy.
+* [TIDoS Framework](https://github.com/0xInfection/TIDoS-Framework) ⭐ 1,848 | 🐛 16 | 🌐 Python | 📅 2023-04-19 - The Offensive Manual Web Application Penetration Testing Framework.
+* [net-creds](https://github.com/DanMcInerney/net-creds) ⭐ 1,816 | 🐛 8 | 🌐 Python | 📅 2023-11-02 - Sniff and catch all sensitive data on an interface.
+* [Habu](https://github.com/fportantier/habu) ⭐ 973 | 🐛 2 | 🌐 Python | 📅 2025-12-30 - Toolkit with a lot of little hacking tools. Many of them use Scapy.
 * [pysap](https://github.com/SecureAuthCorp/pysap) ⭐ 242 | 🐛 8 | 🌐 Python | 📅 2024-12-04 - Interact with SAP using custom built frames & tools.
 * [fenrir](https://github.com/Orange-Cyberdefense/fenrir-ocd) ⭐ 237 | 🐛 7 | 🌐 Python | 📅 2020-10-08 - Bypass wired 802.1x protection.
-* [h2spacex](https://github.com/nxenon/h2spacex) ⭐ 216 | 🐛 0 | 🌐 Python | 📅 2026-02-18 - HTTP/2 low level library based on Scapy which can be used for Single Packet Attack (Race Condition on H2).
+* [h2spacex](https://github.com/nxenon/h2spacex) ⭐ 219 | 🐛 0 | 🌐 Python | 📅 2026-02-18 - HTTP/2 low level library based on Scapy which can be used for Single Packet Attack (Race Condition on H2).
 * [flowsynth](https://github.com/secureworks/flowsynth) ⭐ 205 | 🐛 5 | 🌐 Python | 📅 2022-04-28 - Tool for rapidly modeling network traffic.
 * [aioblescan](https://github.com/frawau/aioblescan) ⭐ 127 | 🐛 7 | 🌐 Python | 📅 2024-08-13 - Scan and decode advertised BLE info.
 * [sshame](https://github.com/HynekPetrak/sshame) ⭐ 78 | 🐛 2 | 🌐 Python | 📅 2025-06-02 - Tool to brute force SSH public-key authentication.
@@ -89,7 +89,7 @@ Exploits that use Scapy. This does not count the ones included by default
 
 2024
 
-* [PPPwn (CVE-2006-4304)](https://github.com/TheOfficialFloW/PPPwn) ⭐ 2,910 | 🐛 12 | 🌐 Python | 📅 2024-06-16 - Playstation 4 PPPoE RCE.
+* [PPPwn (CVE-2006-4304)](https://github.com/TheOfficialFloW/PPPwn) ⭐ 2,914 | 🐛 12 | 🌐 Python | 📅 2024-06-16 - Playstation 4 PPPoE RCE.
 * [CVE-2024-20674](https://github.com/gpotter2/CVE-2024-20674) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2025-06-06 - Windows Kerberos Bypass leading to RCE.
 
 2022
@@ -99,7 +99,7 @@ Exploits that use Scapy. This does not count the ones included by default
 2021
 
 * [CVE-2021-24086](https://blog.quarkslab.com/analysis-of-a-windows-ipv6-fragmentation-vulnerability-cve-2021-24086.html) - Analysis of a Windows IPv6 Fragmentation Vulnerability.
-* [fragattacks](https://github.com/vanhoefm/fragattacks) ⭐ 1,282 | 🐛 2 | 🌐 C | 📅 2025-04-29 - Fragmentation & Aggregation Attacks.
+* [fragattacks](https://github.com/vanhoefm/fragattacks) ⭐ 1,286 | 🐛 2 | 🌐 C | 📅 2025-04-29 - Fragmentation & Aggregation Attacks.
 
 2020
 
@@ -116,7 +116,7 @@ Exploits that use Scapy. This does not count the ones included by default
 
 2017
 
-* [krackattacks-scripts](https://github.com/vanhoefm/krackattacks-scripts) ⭐ 3,487 | 🐛 5 | 🌐 C | 📅 2024-12-25 - Test if clients or access points (APs) are affected by the KRACK attack against WPA2.
+* [krackattacks-scripts](https://github.com/vanhoefm/krackattacks-scripts) ⭐ 3,494 | 🐛 5 | 🌐 C | 📅 2024-12-25 - Test if clients or access points (APs) are affected by the KRACK attack against WPA2.
 
 2016
 
