@@ -20,15 +20,15 @@ Tools that use Scapy (a lot) or extend it.
 
 Fun
 
-* [pwnagotchi](https://github.com/evilsocket/pwnagotchi) ⭐ 8,994 | 🐛 296 | 🌐 Python | 📅 2025-08-23 - Your AI pet that hacks WiFI to grow. It's super cute.
+* [pwnagotchi](https://github.com/evilsocket/pwnagotchi) ⭐ 8,993 | 🐛 296 | 🌐 Python | 📅 2025-08-23 - Your AI pet that hacks WiFI to grow. It's super cute.
 
 DDoS
 
-* [ufonet](https://github.com/epsylon/ufonet) ⭐ 2,444 | 🐛 1 | 🌐 JavaScript | 📅 2024-08-23 - Create your own botnet to send untraceable DDoS attacks.
+* [ufonet](https://github.com/epsylon/ufonet) ⭐ 2,445 | 🐛 1 | 🌐 JavaScript | 📅 2024-08-23 - Create your own botnet to send untraceable DDoS attacks.
 
 Wi-Fi.
 
-* [wifiphisher](https://github.com/wifiphisher/wifiphisher) ⭐ 14,498 | 🐛 351 | 🌐 Python | 📅 2025-02-04 - Create rogue access point.
+* [wifiphisher](https://github.com/wifiphisher/wifiphisher) ⭐ 14,499 | 🐛 351 | 🌐 Python | 📅 2025-02-04 - Create rogue access point.
 * [trackerjacker](https://github.com/calebmadrigal/trackerjacker) ⭐ 2,716 | 🐛 18 | 🌐 Python | 📅 2024-01-16 - Maps and tracks Wi-Fi networks and devices through raw 802.11 monitoring.
 
 Wireless
@@ -55,8 +55,8 @@ Protocols
 
 Unit Tests
 
-* [Linux Kernel](https://github.com/torvalds/linux/blob/master/tools/testing/selftests/tc-testing/plugin-lib/scapyPlugin.py) ⭐ 223,108 | 🐛 3 | 🌐 C | 📅 2026-03-16 - Linux Traffic Control (tc) testing suite.
-* [RIOT-OS](https://github.com/RIOT-OS/RIOT/search?l=Python\&q=scapy\&type=Code) ⭐ 5,697 | 🐛 831 | 🌐 C | 📅 2026-03-16 - RIOT OS networking testing suite.
+* [Linux Kernel](https://github.com/torvalds/linux/blob/master/tools/testing/selftests/tc-testing/plugin-lib/scapyPlugin.py) ⭐ 223,484 | 🐛 3 | 🌐 C | 📅 2026-03-17 - Linux Traffic Control (tc) testing suite.
+* [RIOT-OS](https://github.com/RIOT-OS/RIOT/search?l=Python\&q=scapy\&type=Code) ⭐ 5,698 | 🐛 832 | 🌐 C | 📅 2026-03-18 - RIOT OS networking testing suite.
 * [OpenBSD](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fsearch%3Fq%3Dscapy%2Brepo%253Aopenbsd%252Fsrc%2Bpath%253Aregress%252F%26type%3DCode%26ref%3Dadvsearch%26l%3D%26l%3D) - IPv6 stack testing suite.
 
 Visualization
@@ -67,7 +67,7 @@ Misc
 
 * [Responder](https://github.com/SpiderLabs/Responder) ⚠️ Archived -  LLMNR, NBT-NS and MDNS poisoner.
 * [TIDoS Framework](https://github.com/0xInfection/TIDoS-Framework) ⭐ 1,847 | 🐛 16 | 🌐 Python | 📅 2023-04-19 - The Offensive Manual Web Application Penetration Testing Framework.
-* [net-creds](https://github.com/DanMcInerney/net-creds) ⭐ 1,819 | 🐛 8 | 🌐 Python | 📅 2023-11-02 - Sniff and catch all sensitive data on an interface.
+* [net-creds](https://github.com/DanMcInerney/net-creds) ⭐ 1,820 | 🐛 8 | 🌐 Python | 📅 2023-11-02 - Sniff and catch all sensitive data on an interface.
 * [Habu](https://github.com/fportantier/habu) ⭐ 973 | 🐛 2 | 🌐 Python | 📅 2025-12-30 - Toolkit with a lot of little hacking tools. Many of them use Scapy.
 * [pysap](https://github.com/SecureAuthCorp/pysap) ⭐ 243 | 🐛 9 | 🌐 Python | 📅 2024-12-04 - Interact with SAP using custom built frames & tools.
 * [fenrir](https://github.com/Orange-Cyberdefense/fenrir-ocd) ⭐ 237 | 🐛 7 | 🌐 Python | 📅 2020-10-08 - Bypass wired 802.1x protection.
