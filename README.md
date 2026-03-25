@@ -20,7 +20,7 @@ Tools that use Scapy (a lot) or extend it.
 
 Fun
 
-* [pwnagotchi](https://github.com/evilsocket/pwnagotchi) ⭐ 9,004 | 🐛 296 | 🌐 Python | 📅 2025-08-23 - Your AI pet that hacks WiFI to grow. It's super cute.
+* [pwnagotchi](https://github.com/evilsocket/pwnagotchi) ⭐ 9,007 | 🐛 296 | 🌐 Python | 📅 2025-08-23 - Your AI pet that hacks WiFI to grow. It's super cute.
 
 DDoS
 
@@ -33,7 +33,7 @@ Wi-Fi.
 
 Wireless
 
-* [WHAD](https://github.com/whad-team/whad-client) ⭐ 288 | 🐛 71 | 🌐 Python | 📅 2026-03-23 - A powerful framework to perform various kinds of Wireless attacks.
+* [WHAD](https://github.com/whad-team/whad-client) ⭐ 288 | 🐛 68 | 🌐 Python | 📅 2026-03-24 - A powerful framework to perform various kinds of Wireless attacks.
 
 IPv6
 
@@ -55,8 +55,8 @@ Protocols
 
 Unit Tests
 
-* [Linux Kernel](https://github.com/torvalds/linux/blob/master/tools/testing/selftests/tc-testing/plugin-lib/scapyPlugin.py) ⭐ 224,779 | 🐛 3 | 🌐 C | 📅 2026-03-22 - Linux Traffic Control (tc) testing suite.
-* [RIOT-OS](https://github.com/RIOT-OS/RIOT/search?l=Python\&q=scapy\&type=Code) ⭐ 5,701 | 🐛 831 | 🌐 C | 📅 2026-03-21 - RIOT OS networking testing suite.
+* [Linux Kernel](https://github.com/torvalds/linux/blob/master/tools/testing/selftests/tc-testing/plugin-lib/scapyPlugin.py) ⭐ 224,934 | 🐛 3 | 🌐 C | 📅 2026-03-24 - Linux Traffic Control (tc) testing suite.
+* [RIOT-OS](https://github.com/RIOT-OS/RIOT/search?l=Python\&q=scapy\&type=Code) ⭐ 5,701 | 🐛 834 | 🌐 C | 📅 2026-03-21 - RIOT OS networking testing suite.
 * [OpenBSD](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fsearch%3Fq%3Dscapy%2Brepo%253Aopenbsd%252Fsrc%2Bpath%253Aregress%252F%26type%3DCode%26ref%3Dadvsearch%26l%3D%26l%3D) - IPv6 stack testing suite.
 
 Visualization
@@ -67,9 +67,9 @@ Misc
 
 * [Responder](https://github.com/SpiderLabs/Responder) ⚠️ Archived -  LLMNR, NBT-NS and MDNS poisoner.
 * [TIDoS Framework](https://github.com/0xInfection/TIDoS-Framework) ⭐ 1,848 | 🐛 16 | 🌐 Python | 📅 2023-04-19 - The Offensive Manual Web Application Penetration Testing Framework.
-* [net-creds](https://github.com/DanMcInerney/net-creds) ⭐ 1,822 | 🐛 8 | 🌐 Python | 📅 2023-11-02 - Sniff and catch all sensitive data on an interface.
+* [net-creds](https://github.com/DanMcInerney/net-creds) ⭐ 1,823 | 🐛 8 | 🌐 Python | 📅 2023-11-02 - Sniff and catch all sensitive data on an interface.
 * [Habu](https://github.com/fportantier/habu) ⭐ 974 | 🐛 2 | 🌐 Python | 📅 2025-12-30 - Toolkit with a lot of little hacking tools. Many of them use Scapy.
-* [pysap](https://github.com/SecureAuthCorp/pysap) ⭐ 243 | 🐛 9 | 🌐 Python | 📅 2024-12-04 - Interact with SAP using custom built frames & tools.
+* [pysap](https://github.com/SecureAuthCorp/pysap) ⭐ 244 | 🐛 9 | 🌐 Python | 📅 2024-12-04 - Interact with SAP using custom built frames & tools.
 * [fenrir](https://github.com/Orange-Cyberdefense/fenrir-ocd) ⭐ 237 | 🐛 7 | 🌐 Python | 📅 2020-10-08 - Bypass wired 802.1x protection.
 * [h2spacex](https://github.com/nxenon/h2spacex) ⭐ 219 | 🐛 0 | 🌐 Python | 📅 2026-03-21 - HTTP/2 low level library based on Scapy which can be used for Single Packet Attack (Race Condition on H2).
 * [flowsynth](https://github.com/secureworks/flowsynth) ⭐ 206 | 🐛 5 | 🌐 Python | 📅 2022-04-28 - Tool for rapidly modeling network traffic.
