@@ -24,12 +24,12 @@ Fun
 
 DDoS
 
-* [ufonet](https://github.com/epsylon/ufonet) ⭐ 2,458 | 🐛 3 | 🌐 JavaScript | 📅 2024-08-23 - Create your own botnet to send untraceable DDoS attacks.
+* [ufonet](https://github.com/epsylon/ufonet) ⭐ 2,459 | 🐛 3 | 🌐 JavaScript | 📅 2024-08-23 - Create your own botnet to send untraceable DDoS attacks.
 
 Wi-Fi.
 
-* [wifiphisher](https://github.com/wifiphisher/wifiphisher) ⭐ 14,566 | 🐛 352 | 🌐 Python | 📅 2025-02-04 - Create rogue access point.
-* [trackerjacker](https://github.com/calebmadrigal/trackerjacker) ⭐ 2,727 | 🐛 18 | 🌐 Python | 📅 2026-03-22 - Maps and tracks Wi-Fi networks and devices through raw 802.11 monitoring.
+* [wifiphisher](https://github.com/wifiphisher/wifiphisher) ⭐ 14,568 | 🐛 352 | 🌐 Python | 📅 2025-02-04 - Create rogue access point.
+* [trackerjacker](https://github.com/calebmadrigal/trackerjacker) ⭐ 2,728 | 🐛 18 | 🌐 Python | 📅 2026-03-22 - Maps and tracks Wi-Fi networks and devices through raw 802.11 monitoring.
 
 Wireless
 
@@ -43,20 +43,20 @@ IPv6
 Measurements
 
 * [mtraceroute](https://github.com/rwhalb/mtraceroute) ⭐ 69 | 🐛 1 | 🌐 Python | 📅 2023-03-06 - Create cool graphs over multiple traceroute analysis.
-* [netprobify](https://github.com/criteo/netprobify) ⭐ 38 | 🐛 0 | 🌐 Python | 📅 2026-04-02 - Network probing tool crafted for datacenters (but not only). Probing using: TCP, UDP or ICMP.
+* [netprobify](https://github.com/criteo/netprobify) ⭐ 39 | 🐛 0 | 🌐 Python | 📅 2026-04-02 - Network probing tool crafted for datacenters (but not only). Probing using: TCP, UDP or ICMP.
 * [Network Security Toolkit (NST)](https://wiki.networksecuritytoolkit.org/nstwiki/index.php?title=HowTo_Use_The_Scapy:_Multi-Traceroute_-_MTR) - Includes an enhanced version of `mtraceroute` with IP Geolocation and GUI management.
 
 Protocols
 
-* [Cotopaxi](https://github.com/Samsung/cotopaxi) ⭐ 360 | 🐛 1 | 🌐 Python | 📅 2024-05-31 - Set of tools for security testing of Internet of Things devices using specific network IoT protocols (AMQP, CoAP, DTLS, HTCPCP, KNX, mDNS, MQTT, MQTT-SN, QUIC, RTSP, SSDP) .
+* [Cotopaxi](https://github.com/Samsung/cotopaxi) ⭐ 361 | 🐛 1 | 🌐 Python | 📅 2024-05-31 - Set of tools for security testing of Internet of Things devices using specific network IoT protocols (AMQP, CoAP, DTLS, HTCPCP, KNX, mDNS, MQTT, MQTT-SN, QUIC, RTSP, SSDP) .
 * [project-memoria-detector](https://github.com/Forescout/project-memoria-detector) ⭐ 323 | 🐛 1 | 🌐 Python | 📅 2021-08-10 - Determine whether a network device runs a specific embedded TCP/IP stack.
 * [routopsy](https://github.com/sensepost/routopsy) ⭐ 179 | 🐛 0 | 🌐 Python | 📅 2021-07-30 - Toolkit to attack DRP & FHRP.
 * [TorPylle](https://github.com/cea-sec/TorPylle) ⚠️ Archived - Implementation of the OR (TOR) protocol.
 
 Unit Tests
 
-* [Linux Kernel](https://github.com/torvalds/linux/blob/master/tools/testing/selftests/tc-testing/plugin-lib/scapyPlugin.py) ⭐ 231,974 | 🐛 3 | 🌐 C | 📅 2026-05-05 - Linux Traffic Control (tc) testing suite.
-* [RIOT-OS](https://github.com/RIOT-OS/RIOT/search?l=Python\&q=scapy\&type=Code) ⭐ 5,717 | 🐛 831 | 🌐 C | 📅 2026-05-05 - RIOT OS networking testing suite.
+* [Linux Kernel](https://github.com/torvalds/linux/blob/master/tools/testing/selftests/tc-testing/plugin-lib/scapyPlugin.py) ⭐ 232,088 | 🐛 3 | 🌐 C | 📅 2026-05-05 - Linux Traffic Control (tc) testing suite.
+* [RIOT-OS](https://github.com/RIOT-OS/RIOT/search?l=Python\&q=scapy\&type=Code) ⭐ 5,718 | 🐛 830 | 🌐 C | 📅 2026-05-05 - RIOT OS networking testing suite.
 * [OpenBSD](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fsearch%3Fq%3Dscapy%2Brepo%253Aopenbsd%252Fsrc%2Bpath%253Aregress%252F%26type%3DCode%26ref%3Dadvsearch%26l%3D%26l%3D) - IPv6 stack testing suite.
 
 Visualization
@@ -67,7 +67,7 @@ Misc
 
 * [Responder](https://github.com/SpiderLabs/Responder) ⚠️ Archived -  LLMNR, NBT-NS and MDNS poisoner.
 * [TIDoS Framework](https://github.com/0xInfection/TIDoS-Framework) ⭐ 1,855 | 🐛 16 | 🌐 Python | 📅 2023-04-19 - The Offensive Manual Web Application Penetration Testing Framework.
-* [net-creds](https://github.com/DanMcInerney/net-creds) ⭐ 1,832 | 🐛 8 | 🌐 Python | 📅 2023-11-02 - Sniff and catch all sensitive data on an interface.
+* [net-creds](https://github.com/DanMcInerney/net-creds) ⭐ 1,833 | 🐛 8 | 🌐 Python | 📅 2023-11-02 - Sniff and catch all sensitive data on an interface.
 * [Habu](https://github.com/fportantier/habu) ⭐ 980 | 🐛 2 | 🌐 Python | 📅 2025-12-30 - Toolkit with a lot of little hacking tools. Many of them use Scapy.
 * [pysap](https://github.com/SecureAuthCorp/pysap) ⭐ 246 | 🐛 4 | 🌐 Python | 📅 2026-04-21 - Interact with SAP using custom built frames & tools.
 * [fenrir](https://github.com/Orange-Cyberdefense/fenrir-ocd) ⭐ 239 | 🐛 7 | 🌐 Python | 📅 2020-10-08 - Bypass wired 802.1x protection.
@@ -99,7 +99,7 @@ Exploits that use Scapy. This does not count the ones included by default
 2021
 
 * [CVE-2021-24086](https://blog.quarkslab.com/analysis-of-a-windows-ipv6-fragmentation-vulnerability-cve-2021-24086.html) - Analysis of a Windows IPv6 Fragmentation Vulnerability.
-* [fragattacks](https://github.com/vanhoefm/fragattacks) ⭐ 1,288 | 🐛 2 | 🌐 C | 📅 2025-04-29 - Fragmentation & Aggregation Attacks.
+* [fragattacks](https://github.com/vanhoefm/fragattacks) ⭐ 1,289 | 🐛 2 | 🌐 C | 📅 2025-04-29 - Fragmentation & Aggregation Attacks.
 
 2020
 
@@ -116,7 +116,7 @@ Exploits that use Scapy. This does not count the ones included by default
 
 2017
 
-* [krackattacks-scripts](https://github.com/vanhoefm/krackattacks-scripts) ⭐ 3,498 | 🐛 5 | 🌐 C | 📅 2024-12-25 - Test if clients or access points (APs) are affected by the KRACK attack against WPA2.
+* [krackattacks-scripts](https://github.com/vanhoefm/krackattacks-scripts) ⭐ 3,499 | 🐛 5 | 🌐 C | 📅 2024-12-25 - Test if clients or access points (APs) are affected by the KRACK attack against WPA2.
 
 2016
 
